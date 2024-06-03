@@ -1,0 +1,23 @@
+{
+  "name": "ramdom-str-msg-nolram",
+  "version": "1.0.0",
+  "description": "Ramdom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marlon Miranda <mym2393@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nolram23/ramdom-str-msg-nolram/issues"
+  },
+  "homepage": "https://github.com/gndx/random-str-msg#readme",
+  "bin": {
+    "ramdom-str-msg-nolram": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
